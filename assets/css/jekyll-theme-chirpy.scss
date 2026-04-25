@@ -1,0 +1,27 @@
+---
+---
+@import "main";
+
+#sidebar {
+  background: linear-gradient(
+    180deg,
+    #1a1a2e 0%,
+    var(--sidebar-bg) 40%
+  );
+}
+
+/* Version subtile qui blend avec le background existant */
+#sidebar::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  background: linear-gradient(
+    180deg,
+    rgba(99, 102, 241, 0.08) 0%,
+    transparent 100%
+  );
+  pointer-events: none;
+}
