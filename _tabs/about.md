@@ -5,9 +5,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-# {: .prompt-tip }
-
 Hello, I am Corentin Mahieu. Welcome to my personal website, where you can find some programming stuff, publications and security research findings. I am mainly focusing my career into offensive cybersecurity programming and research.
 
 I am currently working as a **RedTeam Operator** intern at Credit Agricole S.A. bank in France for 6 months. My current focus involves malware developpment and research about malware extensions. I am covering all the creation process, from developping my own C2 server, deploying and injecting the agent in a browser.
