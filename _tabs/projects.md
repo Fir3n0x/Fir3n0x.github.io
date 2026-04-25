@@ -1,7 +1,7 @@
 ---
 title: Projects
 icon: fas fa-code
-order: 5
+order: 1
 ---
 
 A selection of personal projects spanning Android development, offensive security tooling, and AI. All source code is available on [GitHub](https://github.com/Fir3n0x).

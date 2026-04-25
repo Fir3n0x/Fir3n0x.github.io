@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: About Me
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 Hello, I am Corentin Mahieu. Welcome to my personal website, where you can find some programming stuff, publications and security research findings. I am mainly focusing my career into offensive cybersecurity programming and research.
