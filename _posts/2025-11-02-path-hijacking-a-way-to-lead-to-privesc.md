@@ -1,6 +1,6 @@
 ---
 title: "PATH hijacking: A way to lead to PrivEsc"
-date: 2025-11-02 10:00:00 +0200
+date: 2025-11-02 16:31:00 +0200
 categories: [Pentest]
 tags: [hijack, c++, linux, privesc, offensive-security]
 image:

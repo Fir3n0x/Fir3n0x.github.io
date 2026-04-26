@@ -1,6 +1,6 @@
 ---
 title: "Basic Process Injection in C and Go"
-date: 2026-04-25 10:00:00 +0200
+date: 2025-09-28 10:00:00 +0200
 categories: [MalDev]
 tags: [process-injection, c, go, windows, maldev, offensive-security]
 image:
