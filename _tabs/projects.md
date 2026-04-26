@@ -14,7 +14,7 @@ An Android companion app that communicates with an ESP32 microcontroller over BL
 
 **Stack:** Kotlin · BLE · ESP32 · C firmware
 
-![ESPion32](assets/img/projects/espion32-app.jpg)
+![ESPion32](assets/img/projects/espion32-app.jpg){: width="400"}
 
 [GitHub](https://github.com/Fir3n0x/ESPion32){: .btn .btn-outline-primary }
 
