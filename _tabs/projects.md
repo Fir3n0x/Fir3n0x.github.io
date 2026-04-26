@@ -27,7 +27,7 @@ An Android application that passively scans nearby Wi-Fi networks and classifies
 
 **Stack:** Kotlin · Jetpack Compose · Material 3 · TFLite · Coroutines · DataStore
 
-![MiniMap](assets/img/projects/minimap.jpg){: width="800"}
+![MiniMap](assets/img/projects/minimap.jpg){: width="400"}
 
 [GitHub](https://github.com/Fir3n0x/MiniMap){: .btn .btn-outline-primary }
 
