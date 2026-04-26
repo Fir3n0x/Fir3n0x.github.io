@@ -14,7 +14,7 @@ An Android companion app that communicates with an ESP32 microcontroller over BL
 
 **Stack:** Kotlin · BLE · ESP32 · C firmware
 
-![ESPion32](/assets/img/projects/espion32-app.jpg)
+![ESPion32](assets/img/projects/espion32-app.jpg)
 
 [GitHub](https://github.com/Fir3n0x/ESPion32){: .btn .btn-outline-primary }
 
@@ -27,7 +27,7 @@ An Android application that passively scans nearby Wi-Fi networks and classifies
 
 **Stack:** Kotlin · Jetpack Compose · Material 3 · TFLite · Coroutines · DataStore
 
-![MiniMap](/assets/img/projects/minimap.jpg)
+![MiniMap](assets/img/projects/minimap.jpg)
 
 [GitHub](https://github.com/Fir3n0x/MiniMap){: .btn .btn-outline-primary }
 
@@ -40,7 +40,7 @@ A custom Command & Control framework built from scratch. The Go server handles a
 
 **Stack:** Go · C · Windows API
 
-![L4Go0n](/assets/img/projects/L4Go0n.jpg)
+![L4Go0n](assets/img/projects/L4Go0n.jpg)
 
 [GitHub](https://github.com/Fir3n0x/L4Go0n){: .btn .btn-outline-primary }
 
