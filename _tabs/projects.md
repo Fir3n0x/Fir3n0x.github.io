@@ -10,13 +10,14 @@ A selection of personal projects spanning Android development, offensive securit
 ## 📡 ESPion32 - OffSec Wi-Fi Tool
 **Language:** Kotlin (Android) + C (ESP32 firmware) · **Status:** Active (v2.5.1)
 
-An Android companion app that communicates with an ESP32 microcontroller over BLE to perform offensive Wi-Fi operations — including network sniffing and deauthentication attacks. The ESP32 firmware (written in C) is kept private for obvious reasons. Built for educational and authorized use only.
+An Android companion app that communicates with an ESP32 microcontroller over BLE to perform offensive Wi-Fi operations, including network sniffing and deauthentication attacks. The ESP32 firmware (written in C) is provided below, aswell as the UI repository. Built for educational and authorized use only.
 
 **Stack:** Kotlin · BLE · ESP32 · C firmware
 
 ![ESPion32](assets/img/projects/espion32-app.jpg){: width="800"}
 
 [GitHub](https://github.com/Fir3n0x/ESPion32){: .btn .btn-outline-primary }
+[GitHub](https://githu.com/Fir3n0x/ESPion32-firmware){: .btn .btn-outline-primary }
 
 ---
 
@@ -36,7 +37,7 @@ An Android application that passively scans nearby Wi-Fi networks and classifies
 ## 🎯 L4Go0n - C2 Framework
 **Language:** Go (server) + C (agent) · **Platform:** Windows · **Status:** Active
 
-A custom Command & Control framework built from scratch. The Go server handles agent connections and task dispatching, while two types of C agents can be deployed on Windows targets — a **basic** agent for standard operations and a **stealthy** agent designed for lower detection footprint. Encryption support is planned. Built for research and authorized red team use only.
+A custom Command & Control framework built from scratch. The Go server handles agent connections and task dispatching, while two types of C agents can be deployed on Windows targets, a **basic** agent for standard operations and a **stealthy** agent designed for lower detection footprint. Encryption support is planned. Built for research and authorized red team use only.
 
 **Stack:** Go · C · Windows API
 
