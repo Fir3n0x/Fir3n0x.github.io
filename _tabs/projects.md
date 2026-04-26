@@ -14,7 +14,7 @@ An Android companion app that communicates with an ESP32 microcontroller over BL
 
 **Stack:** Kotlin · BLE · ESP32 · C firmware
 
-![ESPion32](assets/img/projects/espion32-app.jpg){: width="400"}
+![ESPion32](assets/img/projects/espion32-app.jpg){: width="800"}
 
 [GitHub](https://github.com/Fir3n0x/ESPion32){: .btn .btn-outline-primary }
 
@@ -27,7 +27,7 @@ An Android application that passively scans nearby Wi-Fi networks and classifies
 
 **Stack:** Kotlin · Jetpack Compose · Material 3 · TFLite · Coroutines · DataStore
 
-![MiniMap](assets/img/projects/minimap.jpg)
+![MiniMap](assets/img/projects/minimap.jpg){: width="800"}
 
 [GitHub](https://github.com/Fir3n0x/MiniMap){: .btn .btn-outline-primary }
 
