@@ -1,8 +1,8 @@
 ---
 title: "Injecting Browser Extension Without the Store - Introducing stomp.py"
 date: 2026-05-02 23:50:00 +0200
-categories: [MalDev]
-tags: [offensive-security, browser, bypass, research]
+categories: [MalDev, Research]
+tags: [offensive-security, browser, bypass]
 ---
 
 Browser extensions are a massively underestimated attack surface. They run natively in the browser, have access to cookies, network requests, and every page the user visits, and most EDRs don't even look at them. Browser extensions can be leveraged as a real threat and act as a malicious agent.
