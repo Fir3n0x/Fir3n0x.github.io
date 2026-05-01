@@ -1,6 +1,6 @@
 ---
 title: "Injecting Browser Extension Without the Store - Introducing stomp.py"
-date: 2026-05-02 23:50:00 +0200
+date: 2026-05-02 00:33:00 +0200
 categories: [MalDev, Research]
 tags: [offensive-security, browser, bypass]
 ---
