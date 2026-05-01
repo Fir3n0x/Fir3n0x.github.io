@@ -74,7 +74,7 @@ On next launch, the browser reads the `Secure Preferences`, finds the extension 
 
 ---
 
-## Bypassing GPO Whitelists — The `--spoof` Option
+## Bypassing GPO Whitelists - The `--spoof` Option
 
 Enterprise environments often go further than just blocking manual installs. Some GPO configurations restrict the browser to a whitelist of allowed extension IDs (`ExtensionInstallAllowlist`). These IDs are visible at `edge://policy` or `chrome://policy`.
 
