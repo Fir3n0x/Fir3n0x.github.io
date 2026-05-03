@@ -92,6 +92,13 @@ python3 stomp.py EXTENSION_A/ \
 
 The browser loads the malicious extension thinking it's loading the whitelisted one. GPO restrictions never trigger because the ID matches.
 
+You can see a demo below:
+
+<video width="100%" controls>
+    <source src="/assets/video/stomp-demo.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video>
+
 ---
 
 ## Limitations
