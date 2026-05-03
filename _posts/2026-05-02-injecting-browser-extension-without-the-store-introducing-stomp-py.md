@@ -114,7 +114,7 @@ stomp is not a magic bullet. A few things to keep in mind:
 
 ## What's Next
 
-stomp.py will be released on my GitHub this weekend. The repository will include the script, usage documentation, and example extension structures for testing.
+stomp.py will be released on my [GitHub](https://github.com/Fir3n0x/stomp) this weekend. The repository will include the script, usage documentation, and example extension structures for testing.
 
 This post covers the injection primitive. Further research on persistence and stealth is ongoing, more on that soon.
 
