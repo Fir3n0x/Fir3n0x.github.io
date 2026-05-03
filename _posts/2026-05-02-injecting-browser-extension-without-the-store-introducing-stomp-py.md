@@ -48,8 +48,9 @@ python3 stomp.py EXTENSION_A/ \
   --prefs-file SecurePreferences \
   --sid "S-1-5-21-...-...-...-..." \
   --target-dir "C:\\Users\\<user>\\AppData\\Local" \
-  --debug
+  --browser edge
 ```
+The `--browser` option specifies the targeted browser. By default, if not mentioned, the injection is aimed for Microsoft Edge browser.
 
 The output is a ZIP archive containing everything needed for deployment:
 
@@ -58,7 +59,7 @@ output.zip
 ├── extension/               # The extension folder, ready to copy
 ├── info.json                # Extension metadata and deployment info
 ├── inject.bat               # Automated deployment script
-├── preferences/             # Generated Secure Preferences for Chrome, Edge, Brave
+├── Secure Preferences       # Generated Secure Preferences for selected browser (default=edge) 
 └── SecurePreferencesClean   # Backup of the original Secure Preferences
 ```
 
